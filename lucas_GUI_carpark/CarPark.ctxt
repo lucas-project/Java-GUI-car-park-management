@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=CarPark
+comment1.params=slotId\ slotForTest
+comment1.target=ParkingSlot\ findSameSlotId(java.lang.String,\ java.util.ArrayList)
+comment1.text=\r\n\ THis\ is\ a\ method\ that\ loop\ over\ the\ arraylist\ and\ find\ the\ slot\ that\ search\ for\r\n\ @param\ slotId\r\n\ @param\ slotForTest\r\n\ @return\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ listAllSlots()
+comment2.text=\r\n\ This\ method\ return\ an\ array\ list\ containing\ all\ slots\r\n\ @return\ ArrayList<ParkingSlot>\ for\ storing\ the\ parking\ slots\r\n
+comment3.params=parkingSlot
+comment3.target=void\ addASlot(ParkingSlot)
+comment3.text=\r\n\ This\ method\ add\ a\ slot\ to\ the\ parking\ slot\ arraylist\r\n\ @param\ parkingSlot\ for\ storing\ the\ parking\ slots\r\n
+comment4.params=parkingSlot
+comment4.target=void\ deleteASlot(ParkingSlot)
+comment4.text=\r\n\ This\ method\ delete\ a\ slot\ from\ parking\ slot\ array\ list\r\n\ @param\ parkingSlot\ for\ storing\ the\ parking\ slots\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ This\ is\ a\ toString\ method\ for\ CarPark\ class\ that\ return\ all\ the\ slots\ in\ a\ String\r\n\ @return\ String\r\n
+numComments=6
